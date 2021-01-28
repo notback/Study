@@ -8,6 +8,9 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        //test dev
+        var a = 1
+        // 模板中的简单名称：
+        val s1 = "a is $a"
+        System.out.println(s1)
     }
 }
