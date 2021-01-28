@@ -12,5 +12,8 @@ class MainActivity : AppCompatActivity() {
         // 模板中的简单名称：
         val s1 = "a is $a"
         System.out.println(s1)
+
+
+        //commit2
     }
 }
